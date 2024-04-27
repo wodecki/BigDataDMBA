@@ -1,0 +1,588 @@
+Beginning AutoGluon training... Time limit = 600s
+AutoGluon will save models to 'autogluon-iowa-daily'
+=================== System Info ===================
+AutoGluon Version:  1.1.0
+Python Version:     3.10.13
+Operating System:   Darwin
+Platform Machine:   arm64
+Platform Version:   Darwin Kernel Version 23.4.0: Fri Mar 15 00:11:08 PDT 2024; root:xnu-10063.101.17~1/RELEASE_ARM64_T8122
+CPU Count:          8
+GPU Count:          0
+Memory Avail:       4.86 GB / 16.00 GB (30.4%)
+Disk Space Avail:   534.10 GB / 926.35 GB (57.7%)
+===================================================
+Setting presets to: medium_quality
+
+Fitting with arguments:
+{'enable_ensemble': True,
+ 'eval_metric': MASE,
+ 'hyperparameters': 'light',
+ 'known_covariates_names': [],
+ 'num_val_windows': 1,
+ 'prediction_length': 7,
+ 'quantile_levels': [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+ 'random_seed': 123,
+ 'refit_every_n_windows': 1,
+ 'refit_full': False,
+ 'skip_model_selection': False,
+ 'target': 'total_amount_sold',
+ 'time_limit': 600,
+ 'verbosity': 2}
+
+Warning: path already exists! This predictor may overwrite an existing predictor! path="autogluon-iowa-daily"
+Beginning AutoGluon training... Time limit = 600s
+Beginning AutoGluon training... Time limit = 600s
+AutoGluon will save models to 'autogluon-iowa-daily'
+AutoGluon will save models to 'autogluon-iowa-daily'
+=================== System Info ===================
+AutoGluon Version:  1.1.0
+Python Version:     3.10.13
+Operating System:   Darwin
+Platform Machine:   arm64
+Platform Version:   Darwin Kernel Version 23.4.0: Fri Mar 15 00:11:08 PDT 2024; root:xnu-10063.101.17~1/RELEASE_ARM64_T8122
+CPU Count:          8
+GPU Count:          0
+Memory Avail:       4.78 GB / 16.00 GB (29.9%)
+Disk Space Avail:   534.10 GB / 926.35 GB (57.7%)
+===================================================
+=================== System Info ===================
+AutoGluon Version:  1.1.0
+Python Version:     3.10.13
+Operating System:   Darwin
+Platform Machine:   arm64
+Platform Version:   Darwin Kernel Version 23.4.0: Fri Mar 15 00:11:08 PDT 2024; root:xnu-10063.101.17~1/RELEASE_ARM64_T8122
+CPU Count:          8
+GPU Count:          0
+Memory Avail:       4.78 GB / 16.00 GB (29.9%)
+Disk Space Avail:   534.10 GB / 926.35 GB (57.7%)
+===================================================
+Setting presets to: medium_quality
+Setting presets to: medium_quality
+
+Fitting with arguments:
+
+Fitting with arguments:
+{'enable_ensemble': True,
+ 'eval_metric': MASE,
+ 'hyperparameters': 'light',
+ 'known_covariates_names': [],
+ 'num_val_windows': 1,
+ 'prediction_length': 7,
+ 'quantile_levels': [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+ 'random_seed': 123,
+ 'refit_every_n_windows': 1,
+ 'refit_full': False,
+ 'skip_model_selection': False,
+ 'target': 'total_amount_sold',
+ 'time_limit': 600,
+ 'verbosity': 2}
+
+{'enable_ensemble': True,
+ 'eval_metric': MASE,
+ 'hyperparameters': 'light',
+ 'known_covariates_names': [],
+ 'num_val_windows': 1,
+ 'prediction_length': 7,
+ 'quantile_levels': [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+ 'random_seed': 123,
+ 'refit_every_n_windows': 1,
+ 'refit_full': False,
+ 'skip_model_selection': False,
+ 'target': 'total_amount_sold',
+ 'time_limit': 600,
+ 'verbosity': 2}
+
+Warning: path already exists! This predictor may overwrite an existing predictor! path="autogluon-iowa-daily"
+Warning: path already exists! This predictor may overwrite an existing predictor! path="autogluon-iowa-daily"
+Beginning AutoGluon training... Time limit = 600s
+Beginning AutoGluon training... Time limit = 600s
+Beginning AutoGluon training... Time limit = 600s
+AutoGluon will save models to 'autogluon-iowa-daily'
+AutoGluon will save models to 'autogluon-iowa-daily'
+AutoGluon will save models to 'autogluon-iowa-daily'
+=================== System Info ===================
+AutoGluon Version:  1.1.0
+Python Version:     3.10.13
+Operating System:   Darwin
+Platform Machine:   arm64
+Platform Version:   Darwin Kernel Version 23.4.0: Fri Mar 15 00:11:08 PDT 2024; root:xnu-10063.101.17~1/RELEASE_ARM64_T8122
+CPU Count:          8
+GPU Count:          0
+Memory Avail:       4.65 GB / 16.00 GB (29.1%)
+Disk Space Avail:   534.10 GB / 926.35 GB (57.7%)
+===================================================
+=================== System Info ===================
+AutoGluon Version:  1.1.0
+Python Version:     3.10.13
+Operating System:   Darwin
+Platform Machine:   arm64
+Platform Version:   Darwin Kernel Version 23.4.0: Fri Mar 15 00:11:08 PDT 2024; root:xnu-10063.101.17~1/RELEASE_ARM64_T8122
+CPU Count:          8
+GPU Count:          0
+Memory Avail:       4.65 GB / 16.00 GB (29.1%)
+Disk Space Avail:   534.10 GB / 926.35 GB (57.7%)
+===================================================
+=================== System Info ===================
+AutoGluon Version:  1.1.0
+Python Version:     3.10.13
+Operating System:   Darwin
+Platform Machine:   arm64
+Platform Version:   Darwin Kernel Version 23.4.0: Fri Mar 15 00:11:08 PDT 2024; root:xnu-10063.101.17~1/RELEASE_ARM64_T8122
+CPU Count:          8
+GPU Count:          0
+Memory Avail:       4.65 GB / 16.00 GB (29.1%)
+Disk Space Avail:   534.10 GB / 926.35 GB (57.7%)
+===================================================
+Setting presets to: medium_quality
+Setting presets to: medium_quality
+Setting presets to: medium_quality
+
+Fitting with arguments:
+
+Fitting with arguments:
+
+Fitting with arguments:
+{'enable_ensemble': True,
+ 'eval_metric': MASE,
+ 'freq': 'D',
+ 'hyperparameters': 'light',
+ 'known_covariates_names': [],
+ 'num_val_windows': 1,
+ 'prediction_length': 7,
+ 'quantile_levels': [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+ 'random_seed': 123,
+ 'refit_every_n_windows': 1,
+ 'refit_full': False,
+ 'skip_model_selection': False,
+ 'target': 'total_amount_sold',
+ 'time_limit': 600,
+ 'verbosity': 2}
+
+{'enable_ensemble': True,
+ 'eval_metric': MASE,
+ 'freq': 'D',
+ 'hyperparameters': 'light',
+ 'known_covariates_names': [],
+ 'num_val_windows': 1,
+ 'prediction_length': 7,
+ 'quantile_levels': [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+ 'random_seed': 123,
+ 'refit_every_n_windows': 1,
+ 'refit_full': False,
+ 'skip_model_selection': False,
+ 'target': 'total_amount_sold',
+ 'time_limit': 600,
+ 'verbosity': 2}
+
+{'enable_ensemble': True,
+ 'eval_metric': MASE,
+ 'freq': 'D',
+ 'hyperparameters': 'light',
+ 'known_covariates_names': [],
+ 'num_val_windows': 1,
+ 'prediction_length': 7,
+ 'quantile_levels': [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+ 'random_seed': 123,
+ 'refit_every_n_windows': 1,
+ 'refit_full': False,
+ 'skip_model_selection': False,
+ 'target': 'total_amount_sold',
+ 'time_limit': 600,
+ 'verbosity': 2}
+
+train_data with frequency 'None' has been resampled to frequency 'D'.
+train_data with frequency 'None' has been resampled to frequency 'D'.
+train_data with frequency 'None' has been resampled to frequency 'D'.
+Provided train_data has 2265 rows (NaN fraction=21.1%), 5 time series. Median time series length is 453 (min=453, max=453). 
+Provided train_data has 2265 rows (NaN fraction=21.1%), 5 time series. Median time series length is 453 (min=453, max=453). 
+Provided train_data has 2265 rows (NaN fraction=21.1%), 5 time series. Median time series length is 453 (min=453, max=453). 
+
+Provided data contains following columns:
+
+Provided data contains following columns:
+
+Provided data contains following columns:
+	target: 'total_amount_sold'
+	target: 'total_amount_sold'
+	target: 'total_amount_sold'
+
+AutoGluon will gauge predictive performance using evaluation metric: 'MASE'
+
+AutoGluon will gauge predictive performance using evaluation metric: 'MASE'
+
+AutoGluon will gauge predictive performance using evaluation metric: 'MASE'
+	This metric's sign has been flipped to adhere to being higher_is_better. The metric score can be multiplied by -1 to get the metric value.
+	This metric's sign has been flipped to adhere to being higher_is_better. The metric score can be multiplied by -1 to get the metric value.
+	This metric's sign has been flipped to adhere to being higher_is_better. The metric score can be multiplied by -1 to get the metric value.
+===================================================
+===================================================
+===================================================
+
+Starting training. Start time is 2024-04-22 09:14:42
+
+Starting training. Start time is 2024-04-22 09:14:42
+
+Starting training. Start time is 2024-04-22 09:14:42
+Models that will be trained: ['Naive', 'SeasonalNaive', 'RecursiveTabular', 'DirectTabular', 'ETS', 'Theta', 'TemporalFusionTransformer']
+Models that will be trained: ['Naive', 'SeasonalNaive', 'RecursiveTabular', 'DirectTabular', 'ETS', 'Theta', 'TemporalFusionTransformer']
+Models that will be trained: ['Naive', 'SeasonalNaive', 'RecursiveTabular', 'DirectTabular', 'ETS', 'Theta', 'TemporalFusionTransformer']
+Training timeseries model Naive. Training for up to 75.0s of the 599.6s of remaining time.
+Training timeseries model Naive. Training for up to 75.0s of the 599.6s of remaining time.
+Training timeseries model Naive. Training for up to 75.0s of the 599.6s of remaining time.
+	-1.1212       = Validation score (-MASE)
+	-1.1212       = Validation score (-MASE)
+	-1.1212       = Validation score (-MASE)
+	0.01    s     = Training runtime
+	0.01    s     = Training runtime
+	0.01    s     = Training runtime
+	0.98    s     = Validation (prediction) runtime
+	0.98    s     = Validation (prediction) runtime
+	0.98    s     = Validation (prediction) runtime
+Training timeseries model SeasonalNaive. Training for up to 85.5s of the 598.6s of remaining time.
+Training timeseries model SeasonalNaive. Training for up to 85.5s of the 598.6s of remaining time.
+Training timeseries model SeasonalNaive. Training for up to 85.5s of the 598.6s of remaining time.
+	-0.6120       = Validation score (-MASE)
+	-0.6120       = Validation score (-MASE)
+	-0.6120       = Validation score (-MASE)
+	0.00    s     = Training runtime
+	0.00    s     = Training runtime
+	0.00    s     = Training runtime
+	0.02    s     = Validation (prediction) runtime
+	0.02    s     = Validation (prediction) runtime
+	0.02    s     = Validation (prediction) runtime
+Training timeseries model RecursiveTabular. Training for up to 99.8s of the 598.6s of remaining time.
+Training timeseries model RecursiveTabular. Training for up to 99.8s of the 598.6s of remaining time.
+Training timeseries model RecursiveTabular. Training for up to 99.8s of the 598.6s of remaining time.
+	-0.5889       = Validation score (-MASE)
+	-0.5889       = Validation score (-MASE)
+	-0.5889       = Validation score (-MASE)
+	1.06    s     = Training runtime
+	1.06    s     = Training runtime
+	1.06    s     = Training runtime
+	0.27    s     = Validation (prediction) runtime
+	0.27    s     = Validation (prediction) runtime
+	0.27    s     = Validation (prediction) runtime
+Training timeseries model DirectTabular. Training for up to 119.5s of the 597.3s of remaining time.
+Training timeseries model DirectTabular. Training for up to 119.5s of the 597.3s of remaining time.
+Training timeseries model DirectTabular. Training for up to 119.5s of the 597.3s of remaining time.
+	-0.6377       = Validation score (-MASE)
+	-0.6377       = Validation score (-MASE)
+	-0.6377       = Validation score (-MASE)
+	0.44    s     = Training runtime
+	0.44    s     = Training runtime
+	0.44    s     = Training runtime
+	0.02    s     = Validation (prediction) runtime
+	0.02    s     = Validation (prediction) runtime
+	0.02    s     = Validation (prediction) runtime
+Training timeseries model ETS. Training for up to 149.2s of the 596.8s of remaining time.
+Training timeseries model ETS. Training for up to 149.2s of the 596.8s of remaining time.
+Training timeseries model ETS. Training for up to 149.2s of the 596.8s of remaining time.
+	-0.6658       = Validation score (-MASE)
+	-0.6658       = Validation score (-MASE)
+	-0.6658       = Validation score (-MASE)
+	0.01    s     = Training runtime
+	0.01    s     = Training runtime
+	0.01    s     = Training runtime
+	7.85    s     = Validation (prediction) runtime
+	7.85    s     = Validation (prediction) runtime
+	7.85    s     = Validation (prediction) runtime
+Training timeseries model Theta. Training for up to 196.3s of the 588.9s of remaining time.
+Training timeseries model Theta. Training for up to 196.3s of the 588.9s of remaining time.
+Training timeseries model Theta. Training for up to 196.3s of the 588.9s of remaining time.
+	-0.7797       = Validation score (-MASE)
+	-0.7797       = Validation score (-MASE)
+	-0.7797       = Validation score (-MASE)
+	0.01    s     = Training runtime
+	0.01    s     = Training runtime
+	0.01    s     = Training runtime
+	4.40    s     = Validation (prediction) runtime
+	4.40    s     = Validation (prediction) runtime
+	4.40    s     = Validation (prediction) runtime
+Training timeseries model TemporalFusionTransformer. Training for up to 292.3s of the 584.5s of remaining time.
+Training timeseries model TemporalFusionTransformer. Training for up to 292.3s of the 584.5s of remaining time.
+Training timeseries model TemporalFusionTransformer. Training for up to 292.3s of the 584.5s of remaining time.
+	-0.5359       = Validation score (-MASE)
+	-0.5359       = Validation score (-MASE)
+	-0.5359       = Validation score (-MASE)
+	27.73   s     = Training runtime
+	27.73   s     = Training runtime
+	27.73   s     = Training runtime
+	0.01    s     = Validation (prediction) runtime
+	0.01    s     = Validation (prediction) runtime
+	0.01    s     = Validation (prediction) runtime
+Fitting simple weighted ensemble.
+Fitting simple weighted ensemble.
+Fitting simple weighted ensemble.
+	Ensemble weights: {'DirectTabular': 0.07, 'RecursiveTabular': 0.14, 'SeasonalNaive': 0.04, 'TemporalFusionTransformer': 0.74}
+	Ensemble weights: {'DirectTabular': 0.07, 'RecursiveTabular': 0.14, 'SeasonalNaive': 0.04, 'TemporalFusionTransformer': 0.74}
+	Ensemble weights: {'DirectTabular': 0.07, 'RecursiveTabular': 0.14, 'SeasonalNaive': 0.04, 'TemporalFusionTransformer': 0.74}
+	-0.4935       = Validation score (-MASE)
+	-0.4935       = Validation score (-MASE)
+	-0.4935       = Validation score (-MASE)
+	0.10    s     = Training runtime
+	0.10    s     = Training runtime
+	0.10    s     = Training runtime
+	0.32    s     = Validation (prediction) runtime
+	0.32    s     = Validation (prediction) runtime
+	0.32    s     = Validation (prediction) runtime
+Training complete. Models trained: ['Naive', 'SeasonalNaive', 'RecursiveTabular', 'DirectTabular', 'ETS', 'Theta', 'TemporalFusionTransformer', 'WeightedEnsemble']
+Training complete. Models trained: ['Naive', 'SeasonalNaive', 'RecursiveTabular', 'DirectTabular', 'ETS', 'Theta', 'TemporalFusionTransformer', 'WeightedEnsemble']
+Training complete. Models trained: ['Naive', 'SeasonalNaive', 'RecursiveTabular', 'DirectTabular', 'ETS', 'Theta', 'TemporalFusionTransformer', 'WeightedEnsemble']
+Total runtime: 43.13 s
+Total runtime: 43.13 s
+Total runtime: 43.13 s
+Best model: WeightedEnsemble
+Best model: WeightedEnsemble
+Best model: WeightedEnsemble
+Best model score: -0.4935
+Best model score: -0.4935
+Best model score: -0.4935
+Beginning AutoGluon training... Time limit = 600s
+AutoGluon will save models to 'autogluon-iowa-daily'
+=================== System Info ===================
+AutoGluon Version:  1.1.0
+Python Version:     3.10.13
+Operating System:   Darwin
+Platform Machine:   arm64
+Platform Version:   Darwin Kernel Version 23.4.0: Fri Mar 15 00:11:08 PDT 2024; root:xnu-10063.101.17~1/RELEASE_ARM64_T8122
+CPU Count:          8
+GPU Count:          0
+Memory Avail:       4.39 GB / 16.00 GB (27.4%)
+Disk Space Avail:   534.07 GB / 926.35 GB (57.7%)
+===================================================
+Setting presets to: medium_quality
+
+Fitting with arguments:
+{'enable_ensemble': True,
+ 'eval_metric': MASE,
+ 'freq': 'D',
+ 'hyperparameters': 'light',
+ 'known_covariates_names': [],
+ 'num_val_windows': 1,
+ 'prediction_length': 7,
+ 'quantile_levels': [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+ 'random_seed': 123,
+ 'refit_every_n_windows': 1,
+ 'refit_full': False,
+ 'skip_model_selection': False,
+ 'target': 'total_amount_sold',
+ 'time_limit': 600,
+ 'verbosity': 2}
+
+train_data with frequency 'None' has been resampled to frequency 'D'.
+Provided train_data has 2225 rows (NaN fraction=21.2%), 5 time series. Median time series length is 445 (min=445, max=445). 
+
+Provided data contains following columns:
+	target: 'total_amount_sold'
+
+AutoGluon will gauge predictive performance using evaluation metric: 'MASE'
+	This metric's sign has been flipped to adhere to being higher_is_better. The metric score can be multiplied by -1 to get the metric value.
+===================================================
+
+Starting training. Start time is 2024-04-22 09:40:55
+Models that will be trained: ['Naive', 'SeasonalNaive', 'RecursiveTabular', 'DirectTabular', 'ETS', 'Theta', 'TemporalFusionTransformer']
+Training timeseries model Naive. Training for up to 74.9s of the 598.8s of remaining time.
+	-0.6451       = Validation score (-MASE)
+	0.01    s     = Training runtime
+	1.00    s     = Validation (prediction) runtime
+Training timeseries model SeasonalNaive. Training for up to 85.4s of the 597.8s of remaining time.
+	-0.3004       = Validation score (-MASE)
+	0.00    s     = Training runtime
+	0.01    s     = Validation (prediction) runtime
+Training timeseries model RecursiveTabular. Training for up to 99.6s of the 597.8s of remaining time.
+	-0.6603       = Validation score (-MASE)
+	1.10    s     = Training runtime
+	0.28    s     = Validation (prediction) runtime
+Training timeseries model DirectTabular. Training for up to 119.3s of the 596.4s of remaining time.
+	-0.5503       = Validation score (-MASE)
+	0.42    s     = Training runtime
+	0.02    s     = Validation (prediction) runtime
+Training timeseries model ETS. Training for up to 149.0s of the 596.0s of remaining time.
+	-0.3570       = Validation score (-MASE)
+	0.01    s     = Training runtime
+	7.88    s     = Validation (prediction) runtime
+Training timeseries model Theta. Training for up to 196.0s of the 588.1s of remaining time.
+	-0.5005       = Validation score (-MASE)
+	0.01    s     = Training runtime
+	4.41    s     = Validation (prediction) runtime
+Training timeseries model TemporalFusionTransformer. Training for up to 291.8s of the 583.6s of remaining time.
+	-0.3851       = Validation score (-MASE)
+	59.00   s     = Training runtime
+	0.01    s     = Validation (prediction) runtime
+Fitting simple weighted ensemble.
+	Ensemble weights: {'DirectTabular': 0.16, 'ETS': 0.32, 'RecursiveTabular': 0.05, 'SeasonalNaive': 0.4, 'TemporalFusionTransformer': 0.07}
+	-0.2294       = Validation score (-MASE)
+	0.10    s     = Training runtime
+	8.20    s     = Validation (prediction) runtime
+Training complete. Models trained: ['Naive', 'SeasonalNaive', 'RecursiveTabular', 'DirectTabular', 'ETS', 'Theta', 'TemporalFusionTransformer', 'WeightedEnsemble']
+Total runtime: 74.39 s
+Best model: WeightedEnsemble
+Best model score: -0.2294
+data with frequency 'None' has been resampled to frequency 'D'.
+Model not specified in predict, will default to the model with the best validation score: WeightedEnsemble
+data with frequency 'None' has been resampled to frequency 'D'.
+Model not specified in predict, will default to the model with the best validation score: WeightedEnsemble
+Warning: 5 time series (100.0%) are shorter than 7 and cannot be predicted by RecursiveTabular/W0. Fallback model SeasonalNaive is used for these time series.
+Model RecursiveTabular failed to predict with the following exception:
+Traceback (most recent call last):
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'target'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/trainer/abstract_trainer.py", line 1179, in get_model_pred_dict
+    model_pred_dict[model_name] = self._predict_model(
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/trainer/abstract_trainer.py", line 1106, in _predict_model
+    return model.predict(data, known_covariates=known_covariates)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/abstract/abstract_timeseries_model.py", line 304, in predict
+    predictions = self._predict(data=data, known_covariates=known_covariates, **kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/multi_window/multi_window_model.py", line 185, in _predict
+    return self.most_recent_model.predict(data, known_covariates=known_covariates, **kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/abstract/abstract_timeseries_model.py", line 304, in predict
+    predictions = self._predict(data=data, known_covariates=known_covariates, **kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/autogluon_tabular/mlforecast.py", line 607, in _predict
+    data, known_covariates, forecast_for_short_series = self._remove_short_ts_and_generate_fallback_forecast(
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/autogluon_tabular/mlforecast.py", line 353, in _remove_short_ts_and_generate_fallback_forecast
+    seasonal_naive.fit(train_data=data_short)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/abstract/abstract_timeseries_model.py", line 247, in fit
+    return super().fit(train_data=train_data, val_data=val_data, **kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/core/models/abstract/abstract_model.py", line 855, in fit
+    out = self._fit(**kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/local/abstract_local_model.py", line 125, in _fit
+    self._dummy_forecast = self._get_dummy_forecast(train_data)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/local/abstract_local_model.py", line 130, in _get_dummy_forecast
+    stats_marginal = train_data[self.target].agg(agg_functions)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'target'
+
+Model WeightedEnsemble failed to predict with the following exception:
+Traceback (most recent call last):
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/trainer/abstract_trainer.py", line 1179, in get_model_pred_dict
+    model_pred_dict[model_name] = self._predict_model(
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/trainer/abstract_trainer.py", line 1106, in _predict_model
+    return model.predict(data, known_covariates=known_covariates)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/ensemble/greedy_ensemble.py", line 153, in predict
+    raise RuntimeError(f"{self.name} cannot predict because base model {model_name} failed.")
+RuntimeError: WeightedEnsemble cannot predict because base model RecursiveTabular failed.
+
+data with frequency 'None' has been resampled to frequency 'D'.
+Model not specified in predict, will default to the model with the best validation score: WeightedEnsemble
+data with frequency 'None' has been resampled to frequency 'D'.
+data with frequency 'None' has been resampled to frequency 'D'.
+Additional data provided, testing on additional data. Resulting leaderboard will be sorted according to test score (`score_test`).
+	Warning: Theta/W0 failed for 5 time series (100.0%). Fallback model SeasonalNaive was used for these time series.
+Warning: 5 time series (100.0%) are shorter than 0 and cannot be predicted by DirectTabular/W0. Fallback model SeasonalNaive is used for these time series.
+Model DirectTabular failed to predict with the following exception:
+Traceback (most recent call last):
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'target'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/trainer/abstract_trainer.py", line 1179, in get_model_pred_dict
+    model_pred_dict[model_name] = self._predict_model(
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/trainer/abstract_trainer.py", line 1106, in _predict_model
+    return model.predict(data, known_covariates=known_covariates)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/abstract/abstract_timeseries_model.py", line 304, in predict
+    predictions = self._predict(data=data, known_covariates=known_covariates, **kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/multi_window/multi_window_model.py", line 185, in _predict
+    return self.most_recent_model.predict(data, known_covariates=known_covariates, **kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/abstract/abstract_timeseries_model.py", line 304, in predict
+    predictions = self._predict(data=data, known_covariates=known_covariates, **kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/autogluon_tabular/mlforecast.py", line 476, in _predict
+    data, known_covariates, forecast_for_short_series = self._remove_short_ts_and_generate_fallback_forecast(
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/autogluon_tabular/mlforecast.py", line 353, in _remove_short_ts_and_generate_fallback_forecast
+    seasonal_naive.fit(train_data=data_short)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/abstract/abstract_timeseries_model.py", line 247, in fit
+    return super().fit(train_data=train_data, val_data=val_data, **kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/core/models/abstract/abstract_model.py", line 855, in fit
+    out = self._fit(**kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/local/abstract_local_model.py", line 125, in _fit
+    self._dummy_forecast = self._get_dummy_forecast(train_data)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/local/abstract_local_model.py", line 130, in _get_dummy_forecast
+    stats_marginal = train_data[self.target].agg(agg_functions)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'target'
+
+Warning: 5 time series (100.0%) are shorter than 7 and cannot be predicted by RecursiveTabular/W0. Fallback model SeasonalNaive is used for these time series.
+Model RecursiveTabular failed to predict with the following exception:
+Traceback (most recent call last):
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'target'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/trainer/abstract_trainer.py", line 1179, in get_model_pred_dict
+    model_pred_dict[model_name] = self._predict_model(
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/trainer/abstract_trainer.py", line 1106, in _predict_model
+    return model.predict(data, known_covariates=known_covariates)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/abstract/abstract_timeseries_model.py", line 304, in predict
+    predictions = self._predict(data=data, known_covariates=known_covariates, **kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/multi_window/multi_window_model.py", line 185, in _predict
+    return self.most_recent_model.predict(data, known_covariates=known_covariates, **kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/abstract/abstract_timeseries_model.py", line 304, in predict
+    predictions = self._predict(data=data, known_covariates=known_covariates, **kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/autogluon_tabular/mlforecast.py", line 607, in _predict
+    data, known_covariates, forecast_for_short_series = self._remove_short_ts_and_generate_fallback_forecast(
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/autogluon_tabular/mlforecast.py", line 353, in _remove_short_ts_and_generate_fallback_forecast
+    seasonal_naive.fit(train_data=data_short)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/abstract/abstract_timeseries_model.py", line 247, in fit
+    return super().fit(train_data=train_data, val_data=val_data, **kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/core/models/abstract/abstract_model.py", line 855, in fit
+    out = self._fit(**kwargs)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/local/abstract_local_model.py", line 125, in _fit
+    self._dummy_forecast = self._get_dummy_forecast(train_data)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/local/abstract_local_model.py", line 130, in _get_dummy_forecast
+    stats_marginal = train_data[self.target].agg(agg_functions)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'target'
+
+	Warning: ETS/W0 failed for 5 time series (100.0%). Fallback model SeasonalNaive was used for these time series.
+Model WeightedEnsemble failed to predict with the following exception:
+Traceback (most recent call last):
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/trainer/abstract_trainer.py", line 1179, in get_model_pred_dict
+    model_pred_dict[model_name] = self._predict_model(
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/trainer/abstract_trainer.py", line 1106, in _predict_model
+    return model.predict(data, known_covariates=known_covariates)
+  File "/Users/wodecki/miniconda3/envs/automl/lib/python3.10/site-packages/autogluon/timeseries/models/ensemble/greedy_ensemble.py", line 153, in predict
+    raise RuntimeError(f"{self.name} cannot predict because base model {model_name} failed.")
+RuntimeError: WeightedEnsemble cannot predict because base model RecursiveTabular failed.
+
+data with frequency 'None' has been resampled to frequency 'D'.
+Model not specified in predict, will default to the model with the best validation score: WeightedEnsemble
+data with frequency 'None' has been resampled to frequency 'D'.
+data with frequency 'None' has been resampled to frequency 'D'.
+Additional data provided, testing on additional data. Resulting leaderboard will be sorted according to test score (`score_test`).
+Loading predictor from path autogluon-iowa-daily
+Loading predictor from path autogluon-iowa-daily
+data with frequency 'None' has been resampled to frequency 'D'.
+Model not specified in predict, will default to the model with the best validation score: WeightedEnsemble
+data with frequency 'None' has been resampled to frequency 'D'.
+Model not specified in predict, will default to the model with the best validation score: WeightedEnsemble
